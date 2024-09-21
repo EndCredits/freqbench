@@ -1,0 +1,2 @@
+Kernel: Linux version 5.4.281-tumbleweed-v1.0.1+ (endcredits@crepuscular-nixos) (ClangBuiltLinux clang version 18.1.8 (https://github.com/llvm/llvm-project.git 3b5b5c1ec4a3095ab096dd780e84d7ab81f3d7ff), ClangBuiltLinux LLD 18.1.8) #1 SMP PREEMPT Sat Sep 21 21:00:29 CST 2024
+Python: Python 3.8.5

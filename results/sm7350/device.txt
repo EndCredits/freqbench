@@ -1,0 +1,2 @@
+Model: Renoir based on Qualcomm Technologies, Inc SM7350;
+Compatible: qcom,shima-idp;qcom,shima;qcom,idp;
