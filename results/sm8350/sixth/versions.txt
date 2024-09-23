@@ -1,0 +1,2 @@
+Kernel: Linux version 5.4.268-Acetaminophen-g3af8ed4c3185 (endcredits@crepuscular-nixos) (ClangBuiltLinux clang version 18.1.8 (https://github.com/llvm/llvm-project.git 3b5b5c1ec4a3095ab096dd780e84d7ab81f3d7ff), ClangBuiltLinux LLD 18.1.8) #1 SMP PREEMPT Mon Sep 23 09:59:14 CST 2024
+Python: Python 3.8.5
